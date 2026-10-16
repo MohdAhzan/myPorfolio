@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "projects": [
+    {
+      "id": "uniclub-rest-api",
+      "name": "UNICLUB Ecommerce REST API",
+      "architecture": "Clean Architecture",
+      "http": [],
+      "grpc": []
+    },
+    {
+      "id": "streamvideogrpc",
+      "name": "StreamVideoGRPC",
+      "http": [],
+      "grpc": []
+    },
+    {
+      "id": "uniclub-microservices",
+      "name": "UNICLUB Ecommerce Microservices",
+      "http": [],
+      "grpc": []
+    }
+  ]
+}
